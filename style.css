@@ -1,0 +1,45 @@
+.heading
+{
+  font-size: 23px;
+  width:100% ;
+  margin: 0px;
+  background-color: plum;
+}
+
+.note {
+    font-size: 20px;
+    color: darkorchid;
+}
+
+body {
+    background-size: cover;
+}
+
+.div_song {
+    float: left;
+}
+
+.div_song_img{
+    width: 100px;
+    border-radius: 1px;
+}
+
+
+#song{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play_button{
+    width: 130px;
+    font-size: 25px;
+    background-color: blueviolet;
+    position: relative;
+
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 10px;
+}
